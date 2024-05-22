@@ -1,13 +1,13 @@
-title:             Narashino 5chu tech blog
+title:             Narashino 5chu Ctech blog
 email:              まだメールは無いよ@example.com
 description:        技術的なことや学校生活の様子を発信している非公式ブログ。
-author:           Narashino 5chu tech club
+author:           Narashino 5chu Ctech club
 baseurl:            "/blog"
-url:                "https://narashino-5chu-tech.github.io"
+url:                "https://n5chu-ctech.github.io"
 
 # Social Profiles
 twitter_username:   
-github_username:    narashino-5chu-tech
+github_username:    n5chu-ctech
 facebook_username:  
 instagram_username:  
 linkedin_username:
