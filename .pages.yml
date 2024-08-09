@@ -8,9 +8,9 @@ content:
       fields: [ layout, title, subtitle, date ]
     fields:
       - name: layout
-        label: レイアウト(posts固定)
+        label: レイアウト(post固定)
         type: string
-        default: posts
+        default: post
       - name: title
         label: タイトル
         type: string
