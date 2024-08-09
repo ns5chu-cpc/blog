@@ -5,17 +5,23 @@ content:
     type: collection
     path: '_posts'
     view:
-      fields: [ title, published, date ]
+      fields: [ layout, title, subtitle, date ]
     fields:
-      - name: published
-        label: Published
-        type: boolean
-        default: true
+      - name: layout
+        label: レイアウト(posts固定)
+        type: string
+        default: posts
+      - name: title
+        label: タイトル
+        type: string
+      - name: subtitle
+        label: サブタイトル
+        type: string
       - name: date
         label: Date
         type: date
-      - name: title
-        label: Title
+      - name: background
+        label: タイトル裏のバックグラウンド画像
         type: string
       - name: body
         label: Body
